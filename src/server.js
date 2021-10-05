@@ -33,6 +33,6 @@ app.get('/', function (req, res) {
     });
 });
 
-var server = app.listen(5000, function () {
+var server = app.listen(3001, function () {
     console.log('Server is running..');
 });
